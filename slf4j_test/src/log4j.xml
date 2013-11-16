@@ -18,7 +18,9 @@
 			<!--  
 				main> [2013-11-14 15:59:17] [client] [18] [INFO] info1 
 				main> [2013-11-14 15:59:17] [client] [19] [ERROR] error1 
-				main> [2013-11-14 15:59:17] [client] [21] [DEBUG] debug11				
+				main> [2013-11-14 15:59:17] [client] [21] [DEBUG] debug11
+				dailyout.log				
+				dailyout.log.131113
 			-->
         </layout>
     </appender>
