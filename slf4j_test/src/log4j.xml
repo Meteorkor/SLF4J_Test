@@ -15,6 +15,11 @@
         <param name="DatePattern" value="'.'yyMMdd"/>
         <layout class="org.apache.log4j.PatternLayout">
             <param name="ConversionPattern" value="%t> [%d{yyyy-MM-dd HH:mm:ss}] [%c{1}] [%L] [%p] %m %n"/>
+			<!--  
+				main> [2013-11-14 15:59:17] [client] [18] [INFO] info1 
+				main> [2013-11-14 15:59:17] [client] [19] [ERROR] error1 
+				main> [2013-11-14 15:59:17] [client] [21] [DEBUG] debug11				
+			-->
         </layout>
     </appender>
     
